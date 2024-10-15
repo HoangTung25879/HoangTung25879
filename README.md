@@ -39,7 +39,4 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
 </a>&nbsp;
 <a style="color:transparent" href="https://linkedin.com/in/hoangtung2579" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" />
-</a>&nbsp;
-<a style="color:transparent" href="https://phamkhachoangtung.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white" target="_blank" />
 </a>
