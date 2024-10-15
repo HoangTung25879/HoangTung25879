@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Tung!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=2000&color=1AA6F7&vCenter=true&width=500&lines=Hi%2C+I'm+Hoang+Tung+(%E2%97%8F'%E2%97%A1'%E2%97%8F))](https://git.io/typing-svg)
+
 I'm a Frontend Developer with over 3 years of experience working with HTML, CSS, and JavaScript. Highly adept at both independent and collaborative projects. My passion for programming has led me to master problem-solving, develop the ability to learn quickly, and always stay updated on new technologies.
 
 <img src="https://badges.pufler.dev/repos/HoangTung25879?color=6182e7" alt="Repos"></img>
@@ -26,6 +27,18 @@ I'm a Frontend Developer with over 3 years of experience working with HTML, CSS,
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=logo=npm&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=logo=visual-studio-code&logoColor=white)&nbsp;
 ## 🔥 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTung25879\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTung25879\&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HoangTung25879&theme=dark)](https://git.io/streak-stats)
 ## 🤝 Let's Connect
 I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
+
+<a style="color:transparent" href="mailto:pedro.sales.muniz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://salesp07.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
