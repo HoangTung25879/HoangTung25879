@@ -2,8 +2,8 @@
 
 I'm a Frontend Developer with over 3 years of experience working with HTML, CSS, and JavaScript. Highly adept at both independent and collaborative projects. My passion for programming has led me to master problem-solving, develop the ability to learn quickly, and always stay updated on new technologies.
 
-<img src="https://badges.pufler.dev/repos/HoangTung25879?color=6182e7" alt="Repos"></img>
-<img src="https://badges.pufler.dev/years/HoangTung25879?color=fc7c42" alt="Years"></img>
+<img src="https://badges.pufler.dev/repos/HoangTung25879?color=6182e7" alt="Repos"></img>&nbsp;
+<img src="https://badges.pufler.dev/years/HoangTung25879?color=fc7c42" alt="Years"></img>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=HoangTung25879" alt="Visitor"></img>
 ## 💻 Tech Stack
 ### Languages
@@ -36,10 +36,10 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
 
 <a style="color:transparent" href="mailto:hoangtung2579@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=red" />
-</a>
+</a>&nbsp;
 <a style="color:transparent" href="https://linkedin.com/in/hoangtung2579" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" />
-</a>
+</a>&nbsp;
 <a style="color:transparent" href="https://phamkhachoangtung.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white" target="_blank" />
 </a>
